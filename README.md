@@ -8,7 +8,7 @@ A página principal possui o seguinte:
 - Links animados para as redes sociais: **Shopee**, **YouTube**, **Instagram**, e **TikTok**.
 - Um design clean e moderno que se adapta tanto para dispositivos móveis quanto para desktop.
 
-## Tecnologias utilizadas
+## Tecnologias Utilizadas
 
 - **HTML**: Estrutura básica da página.
 - **CSS**: Estilização e design da página, incluindo responsividade.
@@ -25,6 +25,6 @@ A página principal possui o seguinte:
 - **Design Responsivo**: A página se adapta a qualquer dispositivo, com design otimizado para mobile e desktop.
 - **Animações Dinâmicas**: Elementos na página possuem animações suaves que surgem conforme o usuário rola a página, criando uma experiência interativa.
 
-## Como visualizar
+## Como Visualizar
 
-Acesse o site: [plantaodoti.com](https://plantaodoti.com/)
+Acesse: [plantaodoti.com](https://plantaodoti.com/)
